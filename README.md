@@ -1,0 +1,1 @@
+# Modal-analysis-of-dynamic-system-Matlab
